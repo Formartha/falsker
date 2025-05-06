@@ -1,0 +1,4 @@
+flask
+redis
+marshmallow
+psutil
