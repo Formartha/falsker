@@ -29,7 +29,7 @@ Note: default is set to `admin123`
 How to deploy?
 -----------
 1. Install docker-compose and docker
-2. run: ```docker-compose up --build flasker``` in flasker/flasker directory (ensure docker-compose.yaml is there)
+2. run: ```docker-compose up --build flasker``` in flasker directory (ensure docker-compose.yaml is there)
 3. access the ui via http://127.0.0.1:5002
 
 Example:
